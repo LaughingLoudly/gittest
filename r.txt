@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sdklfjjk
+=======
+fsdkljfl
+>>>>>>> feature1
