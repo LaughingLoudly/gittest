@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdklfjjk
 =======
+=======
+dklfjl
+lfkdjfl
+>>>>>>> feature1
 fsdkljfl
 >>>>>>> feature1
 fdfd
